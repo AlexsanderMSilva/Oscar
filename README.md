@@ -1,8 +1,8 @@
 # Oscar
 
--- 1) Quantas vezes Natalie Portman foi indicada ao Oscar
--- R: 3 vezes
-SELECT * FROM filmes where nome_do_indicado like '%Natalie Portman%';
+<p> -- 1) Quantas vezes Natalie Portman foi indicada ao Oscar</p>
+<p>-- R: Ela foi indicada 3 vezes</p>
+<p>SELECT * FROM filmes where nome_do_indicado like '%Natalie Portman%';</p>
 
 -- 2) Quantos Oscars Natalie Portman ganhou?
 -- R: 1 vez
